@@ -2,7 +2,7 @@
 
 # dependencies
 react-v18/node_modules
-react-test/node_modules
+test/node_modules
 /.pnp
 .pnp.js
 
